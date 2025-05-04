@@ -17,7 +17,7 @@ st.set_page_config(
 
 
 # Caminhos das logos
-LOGO_BOT_PATH = "assets/Cópia de Logo BRANCA HD cópia.png"
+LOGO_BOT_PATH = "assets/Cópia de Cópia de Logo BRANCA HD cópia (2).png"
 ICON_PATH = "assets/icon_cade.png"
 
 
